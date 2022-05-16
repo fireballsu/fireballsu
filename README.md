@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fireballsu
+- 👀 I’m interested in learning to program Python
+- 🌱 I’m currently learning everything related to Python
+- 💞️ I’m looking to collaborate on Python related projects
+- 📫 How to reach me ... let's talk about that later
